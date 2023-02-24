@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "101167975458",
+    "project_id": "blessed-441d5",
+    "storage_bucket": "blessed-441d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:101167975458:android:9a1c42da646b59e1370e7b",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "101167975458-c9g2fe8f4il434rtlncjol34apqb2v97.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_SGtILAgys5fk2p2MIpgSgTKpSdbZEos"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "101167975458-c9g2fe8f4il434rtlncjol34apqb2v97.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "101167975458-mh66aqa4mc4rp0bin1b80rqnhhn4ee4n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.firebase"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
